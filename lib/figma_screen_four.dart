@@ -342,6 +342,14 @@ class _FigmaScreenFourState extends State<FigmaScreenFour> {
                         fontWeight: FontWeight.w400,
                       ),
                     ),
+                    Text(
+                      "view all",
+                      style: TextStyle(
+                        color: Color(0xFFFF9D01),
+                        fontSize: 15,
+                        fontWeight: FontWeight.w400,
+                      ),
+                    ),
                   ],
                 ),
               ),
